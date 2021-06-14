@@ -1,3 +1,6 @@
+# Hugo default output directory
+/public
+
 ## OS Files
 # Windows
 Thumbs.db
@@ -7,9 +10,3 @@ $RECYCLE.BIN/
 
 # OSX
 .DS_Store
-
-node_modules
-public
-resources
-hugo-image-id
-.env
